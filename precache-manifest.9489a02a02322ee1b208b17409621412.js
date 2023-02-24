@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/QuizzApp/static/media/Wrong.22253a65.svg"
   },
   {
-    "revision": "03b6cb59906159e3a631625957ff0543",
+    "revision": "809bd92b4cc0eebce0fc91069d6b82d6",
     "url": "/QuizzApp/index.html"
   }
 ];

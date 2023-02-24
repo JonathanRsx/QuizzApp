@@ -1,0 +1,17 @@
+{
+  "main.css": "/QuizzApp/static/css/main.b9233ce6.chunk.css",
+  "main.js": "/QuizzApp/static/js/main.bb1c083f.chunk.js",
+  "main.js.map": "/QuizzApp/static/js/main.bb1c083f.chunk.js.map",
+  "static/js/1.ee2fa2fc.chunk.js": "/QuizzApp/static/js/1.ee2fa2fc.chunk.js",
+  "static/js/1.ee2fa2fc.chunk.js.map": "/QuizzApp/static/js/1.ee2fa2fc.chunk.js.map",
+  "static/js/2.05ff5739.chunk.js": "/QuizzApp/static/js/2.05ff5739.chunk.js",
+  "static/js/2.05ff5739.chunk.js.map": "/QuizzApp/static/js/2.05ff5739.chunk.js.map",
+  "runtime~main.js": "/QuizzApp/static/js/runtime~main.d57cfdc9.js",
+  "runtime~main.js.map": "/QuizzApp/static/js/runtime~main.d57cfdc9.js.map",
+  "static/media/Right.b21bb1e3.svg": "/QuizzApp/static/media/Right.b21bb1e3.svg",
+  "static/media/Wrong.22253a65.svg": "/QuizzApp/static/media/Wrong.22253a65.svg",
+  "static/css/main.b9233ce6.chunk.css.map": "/QuizzApp/static/css/main.b9233ce6.chunk.css.map",
+  "index.html": "/QuizzApp/index.html",
+  "precache-manifest.59ca29668d02f51b4777cd495db8803c.js": "/QuizzApp/precache-manifest.59ca29668d02f51b4777cd495db8803c.js",
+  "service-worker.js": "/QuizzApp/service-worker.js"
+}

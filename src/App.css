@@ -1,0 +1,23 @@
+.App {
+  margin: 0px;
+  padding:0px;
+  text-align: left;
+  height: 100%;
+}
+
+.btn {
+  border-radius: 100rem;
+  padding: 12px 36px;
+  color: #1D3874;
+  border: solid 3px transparent;
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(90deg, #3fac8c 0%, #385ec0 100%);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  box-shadow: 2px 1000px 1px #fff inset;
+  cursor: pointer;
+  align-self: stretch;
+  margin: 0px 20px;
+  font-size: 16px;
+}
+
+

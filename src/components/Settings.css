@@ -1,0 +1,63 @@
+.conSettingsMain {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:90%;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    gap: 28px;
+    height: 80vh;
+}
+
+.conSettingsMain .conSettingsCategory{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-self: stretch;
+}
+
+.conSettingsMain h1{
+    background: linear-gradient(270deg, #385EC0 40.19%, #3FAC8C 109.29%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.conSettingsMain .conSettingsCategory p {
+    background: linear-gradient(270deg, #1D3874 40.19%, #3FAC8C 109.29%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+  }
+
+.conSettingsMain .conSettingsCategory select{
+    background-color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 50rem;
+    color: #1D3874;
+    display: flex;
+    font-size: 16px;
+}
+
+.conSettingsMain .conSettingsCategory input {
+    background-color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 50rem;
+    color: #1D3874;
+    display: flex;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.conSettingsMain .conSettingsCategory input:focus{
+    outline: none;
+    cursor: none;
+}
